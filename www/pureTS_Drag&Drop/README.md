@@ -1,4 +1,9 @@
+# pureTS_Drag&Drop
+
 ![](demo/demo.gif)
 
+## Transpile 
 tsc -w
-start index.html
+
+## Just run
+index.html
